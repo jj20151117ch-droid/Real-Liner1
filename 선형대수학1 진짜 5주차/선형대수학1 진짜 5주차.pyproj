@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>bca8c967-6298-4d8c-8b34-e620e097b0c4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>선형대수학1_진짜_5주차.py</StartupFile>
+    <StartupFile>선형대수학1_5주차실습4.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="선형대수학1_진짜_5주차.py" />
+    <Compile Include="선형대수학1_5주차과제2.py" />
+    <Compile Include="선형대수학1_5주차과제1.py" />
+    <Compile Include="선형대수학1_5주차실습3.py" />
+    <Compile Include="선형대수학1_5주차실습4.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
